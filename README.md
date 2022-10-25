@@ -1,2 +1,2 @@
 # Natural Language Processing
-Will be dumping my data science projects here
+A machine learning approach to student retention, using natural language techniques and independent variables to target variable classifcation. 
